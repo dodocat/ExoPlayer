@@ -40,7 +40,7 @@ public class ExoPlayerLibraryInfo {
    * Whether the library was compiled with {@link com.google.android.exoplayer.util.Assertions}
    * checks enabled.
    */
-  public static final boolean ASSERTIONS_ENABLED = true;
+  public static final boolean ASSERTIONS_ENABLED = false;
 
   /**
    * Whether the library was compiled with {@link com.google.android.exoplayer.util.TraceUtil}
